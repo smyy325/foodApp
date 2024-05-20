@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D3EAF4F2"
+
+    tools:context=".CongratsBottomSheet">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp"
+            android:fontFamily="@font/yeon_sung"
+            android:text="şiparişinizi\nzevkle teşlim ettik"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/green"
+            android:textSize="34sp" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="32dp"
+            android:src="@drawable/teslimat" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:background="@drawable/gohomeshape"
+            android:id="@+id/goHome"
+            android:textAllCaps="false"
+            android:layout_gravity="center"
+            android:layout_width="157dp"
+            android:layout_height="57dp"
+            android:textSize="20sp"
+            android:fontFamily="@font/yeon_sung"
+            android:textColor="@color/white"
+            android:layout_marginTop="32dp"
+            android:text="Anasayfaya Dönün" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</FrameLayout>

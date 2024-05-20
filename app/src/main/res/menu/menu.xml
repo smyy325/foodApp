@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Anasayfa"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home_04"/>
+    <item android:title="Sepet"
+        android:id="@+id/cartFragment"
+        android:icon="@drawable/notification_cart"/>
+    <item android:title="Arama"
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/_con"/>
+    <item android:title="Menü"
+        android:id="@+id/historyFragment"
+        android:icon="@drawable/list"/>
+
+    <item android:title="Profilim"
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/user_01"/>
+
+</menu>
