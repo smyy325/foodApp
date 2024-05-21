@@ -27,6 +27,10 @@
 </ul>
 <hr>
 
+<p>Somaya Arab</p>
+<p>Talha Tavalı</p>
+<hr>
+
 ![Ekran görüntüsü 2024-05-20 200848](https://github.com/smyy325/foodApp/assets/135053124/a62345bf-3bac-4a24-aa38-884a5947b54a)
 ![Ekran görüntüsü 2024-05-20 200853](https://github.com/smyy325/foodApp/assets/135053124/0a69c320-a493-4c30-9566-b6d19a9081ec)
 ![Ekran görüntüsü 2024-05-20 200859](https://github.com/smyy325/foodApp/assets/135053124/06c7b640-5647-4e8a-9bca-710063bdab4d)
