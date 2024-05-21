@@ -27,23 +27,18 @@
 </ul>
 <hr>
 
-![Ekran görüntüsü 2024-05-20 200848](https://github.com/smyy325/foodApp/assets/135053124/783ee83a-3b6b-4d20-9b47-6e1240161f57)
-![Ekran görüntüsü 2024-05-20 200853](https://github.com/smyy325/foodApp/assets/135053124/53d8fc8b-062d-41c8-b111-29f518784c75)
-![Ekran görüntüsü 2024-05-20 200859](https://github.com/smyy325/foodApp/assets/135053124/e24b8fdf-de67-41b8-aa12-441ce516e3c6)
-![Ekran görüntüsü 2024-05-20 200905](https://github.com/smyy325/foodApp/assets/135053124/868ccca9-7f2c-417b-a096-8ce726510aff)
-![Ekran görüntüsü 2024-05-20 201352](https://github.com/smyy325/foodApp/assets/135053124/a4b04a90-f472-45ee-b3c1-126a9e11ebc3)
-![Ekran görüntüsü 2024-05-20 201403](https://github.com/smyy325/foodApp/assets/135053124/5a91c59d-728e-4260-94
-![Ekran görüntüsü 2024-05-20 201528](https://github.com/smyy325/foodAp
-![Ekran görüntüsü 2024-05-20 201541](https://github.com/smyy325/foodApp/assets/135053124/2b599192-5a9c-4f9a-b041-3a4a9d495ffa)
-p/assets/135053124/863d1b2c-c8f4-4583-8b58-38f61f64d506)
-
-![Ekran görüntüsü 2024-05-20 201518](https://github.com/smyy325/foodApp/assets/135053124/5c545007-7bdb-4252-8f76-e0e41377e506)
-
-![Ekran görüntüsü 2024-05-20 201503](https://github.com/smyy325/foodApp/assets/135053124/01433355-663c-424c-8c3d-1707ff8714a7)
-57-1feb019ab194)
-![Ekran görüntüsü 2024-05-20 201427](https://github.com/smyy325/foodA
-![Ekran görüntüsü 2024-05-20 201453](https://github.com/smyy325/foodApp/assets/135053124/455fa40d-a884-482b-83b0-beb2b8870dc2)
-pp/assets/135053124/52b09e3d-7180-4c08-8f8b-1add58a05c4f)
-![Ekran görüntüsü 2024-05-20 201448](https://github.com/smyy325/foodApp/assets/135053124/87e9e24c-a751-4dfb-bfd9-5e4fca8214a2)
-
-![Ekran görüntüsü 2024-05-20 201442](https://github.com/smyy325/foodApp/assets/135053124/8c67ec8c-26b9-404b-b25e-0c61ea517ed0)
+![Ekran görüntüsü 2024-05-20 200848](https://github.com/smyy325/foodApp/assets/135053124/a62345bf-3bac-4a24-aa38-884a5947b54a)
+![Ekran görüntüsü 2024-05-20 200853](https://github.com/smyy325/foodApp/assets/135053124/0a69c320-a493-4c30-9566-b6d19a9081ec)
+![Ekran görüntüsü 2024-05-20 200859](https://github.com/smyy325/foodApp/assets/135053124/06c7b640-5647-4e8a-9bca-710063bdab4d)
+![Ekran görüntüsü 2024-05-20 200905](https://github.com/smyy325/foodApp/assets/135053124/09b10b0d-8743-4eee-80c2-5cb6ee912aa3)
+![Ekran görüntüsü 2024-05-20 201352](https://github.com/smyy325/foodApp/assets/135053124/bc343a98-1c70-40f3-ae9f-43143c086153)
+![Ekran görüntüsü 2024-05-20 201403](https://github.com/smyy325/foodApp/assets/135053124/4bb56470-d228-4c48-9f13-8c91e629522c)
+![Ekran görüntüsü 2024-05-20 201427](https://github.com/smyy325/foodApp/assets/135053124/912bbf33-ec78-4ed4-a8a6-b4b8faae907a)
+![Ekran görüntüsü 2024-05-20 201442](https://github.com/smyy325/foodApp/assets/135053124/db54aa96-2c08-4ed7-848d-20d4ddbc79a4)
+![Ekran görüntüsü 2024-05-20 201448](https://github.com/smyy325/foodApp/assets/135053124/882edc62-e77f-42ac-8ecb-30147cc8ab19)
+![Ekran görüntüsü 2024-05-20 201453](https://github.com/smyy325/foodApp/assets/135053124/0d81384e-025c-46cb-8512-68c3ab4e4ee4)
+![Ekran görüntüsü 2024-05-20 201503](https://github.com/smyy325/foodApp/assets/135053124/ac93f2c8-3e55-4e52-a590-057f8fcfdcf4)
+![Ekran görüntüsü 2024-05-20 201518](https://github.com/smyy325/foodApp/assets/135053124/e381ed45-b900-4696-a8da-6714315656ed)
+![Ekran görüntüsü 2024-05-20 201528](https://github.com/smyy325/foodApp/assets/135053124/8b8e1e6a-c9a3-4807-a717-299ead29f583)
+![Ekran görüntüsü 2024-05-20 201541](https://github.com/smyy325/foodApp/assets/135053124/bd439497-a1ee-43a5-be33-668e0c8194ed)
+![Ekran görüntüsü 2024-05-20 201607](https://github.com/smyy325/foodApp/assets/135053124/db739ce0-917f-44c3-bcca-49ddad516ea4)
