@@ -25,11 +25,11 @@
   <li>Glide: Image loading library for Android that provides easy image loading and caching.</li>
   <li>Analytics: Tools like Firebase Analytics or Google Analytics for tracking user engagement and behavior within the app.</li>
 </ul>
-<!--<hr>
+<hr>
 
 <p>Somaya Arab</p>
 <p>Talha Tavalı</p>
-<hr>-->
+<hr>
 
 ![Ekran görüntüsü 2024-05-20 200848](https://github.com/smyy325/foodApp/assets/135053124/a62345bf-3bac-4a24-aa38-884a5947b54a)
 ![Ekran görüntüsü 2024-05-20 200853](https://github.com/smyy325/foodApp/assets/135053124/0a69c320-a493-4c30-9566-b6d19a9081ec)
